@@ -4,8 +4,6 @@ date : 2023-09-12 02:35:53 +0000
 published: true  
 ---
 
-# How to show the tooltip for the top layer only in multi-layer plotly graphs?
-
 I have a multi-layer plotly express timeline showing grey blocks with blue activities on them. Both blocks and activities have a tooltip. When hovering over them, I want to show the tooltip for the top layer only: i.e. when hovering over a blue activity (on the top layer), the tooltip for the activity must be displayed; when hovering over a grey block (on the bottom layer), the tooltip for the block must be displayed.
 
 Now, instead, on a part of the region of some of the blue activities, the grey tooltip is displayed.
