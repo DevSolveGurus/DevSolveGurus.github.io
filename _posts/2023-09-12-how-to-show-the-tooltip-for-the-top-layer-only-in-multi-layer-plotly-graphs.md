@@ -1,18 +1,12 @@
 ---
-title : How to show the tooltip for the top layer only in multi-layer plotly graphs? 
+title : How can I configure the display of tooltips exclusively for the top layer in multi-layer plotly graphs? 
 date : 2023-09-12 02:35:53 +0000
 published: true  
 ---
 
-# How to show the tooltip for the top layer only in multi-layer plotly graphs?
+# How can I configure the display of tooltips exclusively for the top layer in multi-layer plotly graphs?
 
-I have a multi-layer plotly express timeline showing grey blocks with blue activities on them. Both blocks and activities have a tooltip. When hovering over them, I want to show the tooltip for the top layer only: i.e. when hovering over a blue activity (on the top layer), the tooltip for the activity must be displayed; when hovering over a grey block (on the bottom layer), the tooltip for the block must be displayed.
-
-Now, instead, on a part of the region of some of the blue activities, the grey tooltip is displayed.
-
-This can be reproduced by the following example. The problem shows up especially when hovering over the second activity in both blocks: on the left part of those activities, a grey tooltip is shown.
-
-First, I create two separate plots.
+specifically within a multi-layer plotly express timeline featuring grey blocks and blue activities, both equipped with their own tooltips? My goal is to ensure that when hovering over a blue activity on the top layer, only the tooltip associated with that activity is shown, and when hovering over a grey block on the bottom layer, only the tooltip linked to that block is displayed. Currently, I'm encountering an issue where, when hovering over certain regions of the blue activities, the grey tooltip is erroneously displayed. To illustrate this problem, I've provided a reproducible example, which notably highlights the issue when hovering over the second activity in both blocks. In these cases, the grey tooltip appears on the left portion of those activities
 
 ```python
 import plotly.express as px
