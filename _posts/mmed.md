@@ -1,8 +1,8 @@
 ---
-title : hello cat fat
-date : 2023-09-12 02:58:13 -500
-categories : [wellcome,well]
-tags : [wellcome,well]
+layout: post
+title: Your Post Title
+date: 2023-09-13 12:00:00 +0000
+categories: [category1, category2]
 ---
 # cat fat
 adss
