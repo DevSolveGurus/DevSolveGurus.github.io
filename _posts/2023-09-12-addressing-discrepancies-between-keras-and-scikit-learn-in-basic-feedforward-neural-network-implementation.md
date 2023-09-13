@@ -1,6 +1,6 @@
 ---
 title : Addressing Discrepancies Between Keras and scikit-learn in Basic Feedforward Neural Network Implementation 
-date : 2023-09-13 21:50:35 +0000
+date : 2023-09-12 21:50:35 +0000
 published: true  
 ---
 # Addressing Discrepancies Between Keras and scikit-learn in Basic Feedforward Neural Network Implementation
