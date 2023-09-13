@@ -29,7 +29,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://devsolvegurus.github.io"
 
 github:
-  username: DevSolveGurus # change to your github username
+  username: devsolvegurus # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
