@@ -1,5 +1,5 @@
 ---
-title : How to craft a bespoke filter with graphene-django and Relay, harnessing multiple fields of diverse data types 
+title : How to craft a bespoke filter with graphene-django and Relay harnessing multiple fields of diverse data types 
 date : 2023-09-13 00:56:52 +0000
 published: true  
 ---
